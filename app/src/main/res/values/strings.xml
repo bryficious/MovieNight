@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MovieNightApp</string>
+    <string name="title1">Movie Title</string>
+    <string name="title2">Genre</string>
+    <string name="title3">Year</string>
+    <string name="title4">Rating</string>
+    <string name="btn1">Insert</string>
+    <string name="btn2">Show List</string>
+    <string name="btn3">Show all movies with rating PG-13</string>
+    <string name="btn4">Update</string>
+    <string name="btn5">Delete</string>
+    <string name="btn6">Back</string>
+    <string name="btn7">Search</string>
+    <string name="btn8">Cancel</string>
+    <string-array name="rating_array">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG13</item>
+        <item>NC16</item>
+        <item>M18</item>
+        <item>R21</item>
+    </string-array>
+    <drawable name="rating_g" />
+    <drawable name="rating_r21" />
+    <drawable name="rating_m18" />
+    <drawable name="rating_nc16" />
+    <drawable name="rating_pg13" />
+    <drawable name="rating_pg" />
+</resources>
